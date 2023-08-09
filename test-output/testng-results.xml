@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-10T03:48:28 IST" name="Suite" finished-at="2023-08-10T03:48:32 IST" duration-ms="3920">
+    <groups>
+    </groups>
+    <test started-at="2023-08-10T03:48:28 IST" name="Test" finished-at="2023-08-10T03:48:32 IST" duration-ms="3920">
+      <class name="api.tests.VisualCrossingAPITest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:api.tests.VisualCrossingAPITest@550dbc7a]" started-at="2023-08-10T03:48:28 IST" name="setUp" finished-at="2023-08-10T03:48:28 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:api.tests.VisualCrossingAPITest@550dbc7a]" started-at="2023-08-10T03:48:28 IST" name="setUp" finished-at="2023-08-10T03:48:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAPIData()[pri:0, instance:api.tests.VisualCrossingAPITest@550dbc7a]" started-at="2023-08-10T03:48:28 IST" name="verifyAPIData" finished-at="2023-08-10T03:48:32 IST" duration-ms="3552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAPIData -->
+      </class> <!-- api.tests.VisualCrossingAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
